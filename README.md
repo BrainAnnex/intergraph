@@ -1,5 +1,9 @@
 # intergraph
-Thin, standardized low-level python interface to various graph databases.
+Thin, standardized, low-level python interface to various graph databases.
+
+This is a mono-repository for multiple variants of this library,  
+currently available for Neo4j version 4 and version 5.  
+In principle, it could be ported to other graph databases, such as MemGraph or AWS Neptune.  
 
 A spinoff of the NeoAccess library.
 
